@@ -7,3 +7,5 @@
 10/8/2025 - Had an exam yesterday so forgot to do one yesterday.  
   
 10/9/2025 - Today when solving an aggregate functions problem I refreshed my memory that not equal is "<>" and not "!=" which is the not equal in many coding languages. I also was forced to remember that string literals are identified by a single quote. I was trying double quotes to begin which gave me errors as double quotes are primarily used for identifiers such as a column name or table name. I am very glad I am doing this 50 day challenge because simple things like this seemed to have slowly withered from my memory about SQL.
+
+10/19/2025 - Midterms kicked my ass all week and have been relaxing this weekend, I will get back on the horse this week, going to start a repo for datapuzzles.com too because I have been enjoying them a lot this weekend!
