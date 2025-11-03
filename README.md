@@ -12,3 +12,5 @@
 10/29/2025 - Adding organization for different websites problems, did a datalemur problem today that I really liked, using some sql functions and syntax I have almost forgotten about and how to use.
 
 10/30/2025 - Really liking the problems on datalemur's website more than leetcode so will probably be doing most of those from now on, they are a lot more challenging and more realistic problems! Glad to get some practice with harder queries with different SQL functions. The downside is if I wanted to add a pandas solution datalemurs website does not include support for it so I will have to get an example dataset from chatgpt given the problem statement and can work on a pandas solution in my own IDE! 
+
+11/03/2025 - Not much of an update but totally forgot about how to use SQL cases which are so goated, check out the New York Times problem!
