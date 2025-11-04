@@ -1,3 +1,4 @@
+-- MYSQL
 SELECT pg.page_id FROM pages pg
 left outer join page_likes pl
 on pg.page_id = pl.page_id
