@@ -1,4 +1,4 @@
-/* MYSQL */
+-- MYSQL
 select user_id, datediff(max(date(post_date)), min(date(post_date))) as days_between
 from posts
 where year(post_date) = 2021
