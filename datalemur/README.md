@@ -1,3 +1,3 @@
 # Data Lemur Problems (datalemur.com)
 ## By: Logan Becker
-### All answers typed in MySQL, might also include an example answer in python pandas
+### Most answers are typed in MySQL, some in PostgreSQL14, some in python pandas. In each file I will write what language the code is written in.
