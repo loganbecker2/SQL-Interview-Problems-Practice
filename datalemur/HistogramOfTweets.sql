@@ -1,3 +1,4 @@
+-- MYSQL
 select 
   tweets_num as tweet_bucket,
   count(user_id) as users_num
