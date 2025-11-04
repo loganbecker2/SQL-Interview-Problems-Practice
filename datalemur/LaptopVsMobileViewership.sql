@@ -1,3 +1,4 @@
+-- MYSQL
 SELECT 
 COUNT(case when device_type = 'laptop' then user_id end) as laptop_views,
 count(case when device_type = 'phone' or device_type = 'tablet' then user_id end) as mobile_views
