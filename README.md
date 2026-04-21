@@ -1,6 +1,5 @@
 # SQL Example Interview Questions
 ## Author: Logan Becker
-### Since it has been a while since I used SQL, I am dedicating this repo to hold all of my SQL practice problems from different sites including Leetcode, DataLemur, data-puzzles, etc. in order to keep my SQL knowledge fresh!
 
 ### UPDATES:  
 10/8/2025 - Had an exam yesterday so forgot to do one yesterday.  
